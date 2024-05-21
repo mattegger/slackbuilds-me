@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=lordsawar
+Comment=
+Exec=/usr/bin/lordsawar
+Icon=/usr/share/pixmaps/lordsawar.png
+Terminal=false
+Type=
+Categories=games
+GenericName=
